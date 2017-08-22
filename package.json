@@ -1,0 +1,19 @@
+{
+  "name": "zadanie-8-4",
+  "version": "1.0.0",
+  "description": "Zadanie 8.4",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "zadanie",
+    "8-4"
+  ],
+  "author": "Agata Kądziołka",
+  "license": "ISC"
+}
